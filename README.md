@@ -6,6 +6,11 @@ Projeto desenvolvido no bootcamp Órbi Web Games Developer em parceria com a [Di
 
 Para executarmos o projeto, basta apenas abrir o arquivo index.html em um navegador de preferência.
 
+## Controles
+- **D**: Atirar
+- **W**: Subir
+- **S**: Descer
+
 ## Imagem do jogo
 
 ![Primeiro jogo de naves](jogo.png)
